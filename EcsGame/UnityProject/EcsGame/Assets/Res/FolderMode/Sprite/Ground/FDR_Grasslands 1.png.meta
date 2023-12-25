@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: 829ea0352ce0ace46a6b5629dab44bfd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c704d94f068f458dcc18a04c995e0
+      internalID: -1308401648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e32775ef0a2241a62f8729ac05556
+      internalID: 115666825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b25558ea926d479499ffc3f802a08
+      internalID: -1931675917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424179d46c8896644af9d76b5b604574
+      internalID: -567851197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 498
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39660936e8308474a9aee1c501312a70
+      internalID: -1915881565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 498
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ac492188224446bcef6e2fb861c8c
+      internalID: 2074096483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 432
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0d60d2f7bb39b4dad9297a4dd9e9f7
+      internalID: 270638586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 432
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d284cf80014d140a4c6961a46cd0b8
+      internalID: -984169869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 476
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302df22cbf3a8b4aa1e502debe4f536
+      internalID: 1581374443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 485
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891db272c6f56049a66766cf0e68cb0
+      internalID: 1956458553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 485
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70c4fa31b01ad428fe7d5d96ca8eaf
+      internalID: 7402962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 485
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32ae3428526f5479ec9d3670dc1c50
+      internalID: -1347562167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 485
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cbb1b63f6c0644089724b5859757cc
+      internalID: 239823916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48c435026e03674fb9e6fa84622bba1
+      internalID: 1691444890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3656869da24715845abd63bc7c974063
+      internalID: 98405179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac61785b5e28a014fb9ded30c783fd4f
+      internalID: 2102153992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6d72152beceb44c976cacdcad432d8
+      internalID: -1910790194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 482
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291792999c9cc4344a8562f8f20efe03
+      internalID: 980079528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 482
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1590010c936ffda4e9f2ff6a632a2cdc
+      internalID: -1894313868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 482
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a521be8d01944443a46a2a37c720d96
+      internalID: -1622238275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 482
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268572a68051b624eaaf2e5cff009859
+      internalID: -1146128277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 457
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83535bfd5e14e43a4444ab8a253c2f
+      internalID: 128056237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 441
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13427f4e52d772b4f9b83b4e06efe0d2
+      internalID: 398194907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f723366093a14bbcdf7eed1b772f0
+      internalID: -1670579429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 470
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d647dd0b3987b43afa0d4d04983894
+      internalID: 1417437481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 470
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23194d556e724a4eb0753ae2cf4f1a3
+      internalID: 336775384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 470
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b3a02e66c8144fbba907b27aa6843
+      internalID: -496343441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 459
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7618701d62b11174984e5f63ec0c7295
+      internalID: -1528576258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 459
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101dcacbb611304cbe22bea9a75e806
+      internalID: -522971729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 459
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70952a1358663f94fa05f6c6ce1cfcdf
+      internalID: -1817272007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 459
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b9236c052bc440af316519e007dc7
+      internalID: 1566081442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 465
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761a2aa7aab21e4e94a0f1e04cd770e
+      internalID: 855298938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_32
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 465
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf44d13ebe6fe54a9e3d3e76707ef7a
+      internalID: 2012567909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 465
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac304cd92fcba4ba8fa3d44139ee1a
+      internalID: -1716105684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_34
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 465
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686504e665ea78549b3d235026204a2b
+      internalID: -587313937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 466
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e1cf1539b3f9542bf751cdec56a514
+      internalID: -2094814433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7286d0b0125b79442a13252df74da708
+      internalID: 334560015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 466
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38724e5f0cc74994aa9353d5d401459f
+      internalID: -1221042800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_38
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 466
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f859119c3daf854686bf3a5d9f9f77e
+      internalID: 1204176244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 454
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b0e5e43b7d4a4aac6f2f54d4ff3f0
+      internalID: -15308041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 454
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb4b636595882449b0ae7afc9f6d10
+      internalID: 1098498615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 453
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc090b69c0b9648aea1d92f135f73e
+      internalID: 1401883967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 452
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a9e3958729a044b69fa4ed4ebbe4a
+      internalID: -399673380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 452
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac872c49a68ab747b35a7c8d82e7b84
+      internalID: 1212491989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8cc792d2d569408eeca5f6fd7b14b
+      internalID: 430579386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c6e47b3d8c84045bb6ff106894dfd6
+      internalID: -1970275090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b643edff272a794a966050e25ff0050
+      internalID: -1276113299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 448
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d69e9dca264fc241b4e17d86d2a64dc
+      internalID: -207998287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e06079af7d184b8edccc0bc0e3a31
+      internalID: -668730195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaca49c9f8dd4545b1b82f7f8202981
+      internalID: -1793141209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 448
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d9369b961e0c49a0c50b421c0f204
+      internalID: -702355561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7bed36c975e94a8705a7ddff1d788
+      internalID: -659132779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 448
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0699f5f199f27ae4599104d85a4b9caf
+      internalID: -2053153067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3d66715eec9f4a9685b28c7c05b12
+      internalID: 891505516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_54
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 449
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84192eb20cbca449f245508c8d2ae7
+      internalID: 471673226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6ef47ddf375e4a81eb94edcaf2da3
+      internalID: -981937074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcb1dde5f555346aeb439b68a431b0
+      internalID: 2132610786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325ab173d630404aa60dd450219f1d4
+      internalID: -304441142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379e5c0074b0754a9a9d139ed30ebf4
+      internalID: 1418906715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 450
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54bf6b768bb303478d6baf83f5c57a9
+      internalID: -148306732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 428
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4e2fa3fb8ffc54a833aa29a044fc71
+      internalID: 1756018945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f90ff6a6fb0bf449b9a2bd5f918a18
+      internalID: 862360830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 444
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecba910c40c017408b7a5d855c4a53d
+      internalID: -1893457217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916b65d0caebdc4c88f75a33b4f4494
+      internalID: 1692561612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 443
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a16b8db6a224e41afabdd1b7b951a2
+      internalID: 950959559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5538a4ebfad249965975714a71391
+      internalID: 1628334366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 450
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52c05a1b9dd004f9457194d01061ef
+      internalID: -1285508660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 444
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7466e2124fb0134a97e3194dc1d7b82
+      internalID: 338354491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 443
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8c1af97d52e684faafe729511548a3
+      internalID: -965153979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b42ebb5cd32ca4693ac37b30650b0d
+      internalID: -1208737420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 441
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22e1379274434b4cbbc0fbca7c1f52c
+      internalID: 1053500466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 442
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f35181ce97d3d84d9e4dd6ad40c8453
+      internalID: 1735130295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_72
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e4296d1659544493046550cec6bbf
+      internalID: -1883249890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 442
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c3be1b535b454a82a5278ec1668fd
+      internalID: 1684732884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_74
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eddf5f0fd356a46ad5e0442cf2f431
+      internalID: -2009866999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 441
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4db4fd01d523438ccb59447e03152
+      internalID: -299788779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 434
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d899e7b3969924a8d15e5a4861601b
+      internalID: 1396290723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 436
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78473110495f18546b0b79cb2d657260
+      internalID: 487408483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 441
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b90e23b0d35934ca9f2336e393cd80
+      internalID: -1787613730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 442
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11422f8c8b0a06444ad1d7aaa153b458
+      internalID: 66549595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_80
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626471247556ef14a986208775b99c35
+      internalID: 1714527396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_81
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 442
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57c79bd3cd98a4fbd29ad9b86932ac
+      internalID: -1071566123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29f1c0b3af0094e8aab2fd6740a7a0
+      internalID: 1052399541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_83
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 441
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90955a542658d2b42b5232016b8d3624
+      internalID: 2092860915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 434
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edac0775f68db74f8b1d388a0f60f11
+      internalID: -480609168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 434
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9df9e0062ac24492aefa7140d7898
+      internalID: -606350890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248ecc9f1fd57c47b556dbbe048fae2
+      internalID: -2120413556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 434
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a20303da8c14d44a123894030f15da
+      internalID: -840127259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 434
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c7e853f1a7cd04196d5bc7fb059b6d
+      internalID: 465770392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 438
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80bccf405d37f148b0c121889580b45
+      internalID: -1434461727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_90
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 436
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238a611a3064804fbda398ce65a674f
+      internalID: 1842802616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_91
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 438
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f0d303965ad72498f9fdecae48dc3a
+      internalID: -1329248265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_92
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d4333548a20548bec824a41a18186
+      internalID: 84354119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 438
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b630b3f54a519342b791af05e53bc97
+      internalID: -323394223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_94
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 436
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72216af1841d6d4182060b0dba186f0
+      internalID: -381930845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 438
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7b0901f94be440a5623c67eea305f
+      internalID: 1089893478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_96
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 435
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce803d209b621f4ea82fa0388968be5
+      internalID: -1779988375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 433
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad85d9e762b48344a68363ba2dd9ea1
+      internalID: -2083196770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_98
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148c525795bcb949817a39f8a68de5e
+      internalID: -1455658499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_99
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7bdb8d86f1d9047ab3d3c9bbed6bf6
+      internalID: 190460947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 427
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e5efd84a2ed1845af5511e076f8942
+      internalID: 1320542302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 433
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5e3a9fe2a7424439fe9d88cf3aceea
+      internalID: -1888385807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_102
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e304a2b758f8a4c982571111a36387
+      internalID: -530205320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_103
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 434
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108349548343f742959961a35e97d15
+      internalID: 915340544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_104
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 433
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e503a6d35a6d24f979bf967ac616a2
+      internalID: -696950215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 424
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134fab3d4d31354394da44f8881bbec
+      internalID: 1326454830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_106
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 424
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f4711ceebf0c4bbece3639f3bb19b
+      internalID: -1237238152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_107
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 424
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b7c6e703c49c449b4a3b5f89e586c
+      internalID: 1924619667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 421
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6fe6b9f69806442bb9b1f9318fba25
+      internalID: 102919549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143e7e62d8d67f4db23423ef917114e
+      internalID: 1487053429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 424
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45de1330c2d346459dfdeed94afd105
+      internalID: 1007040387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 426
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d88c903b9d43409e9e7dce9a3862d
+      internalID: -1955093922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b0c9268a4b9549abed4a53207a443
+      internalID: 581793194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_113
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 427
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5549bfc704fbb4a9a89bf52365a432
+      internalID: 788876581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_114
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c765db3a4fb1af409a63f302c10435b
+      internalID: 2027877265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 418
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8069ad41df29f24693f99dce8ee7d39
+      internalID: -169518408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 418
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e321e02b72988614ca2a284589bf2a92
+      internalID: -447639883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 418
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba9f9d0eea709b41884c12f717307e8
+      internalID: -636398359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_118
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 418
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2d1f5db0948b94b916e12092fc5dc9
+      internalID: 765663487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_119
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 345
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add58a19544413941b25f9a8f179be4d
+      internalID: 903462285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_120
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf218aa4731b7a4891361ba6c9672d5
+      internalID: 628469596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 192
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031f728fc1b934f4b8033549dfefc362
+      internalID: -60966666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_122
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 421
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8852ff9197ba45a8cef28423fda3e
+      internalID: -1650377419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_123
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 422
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a903cc860fc9a1e4da641ba3c103c898
+      internalID: 553057207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_124
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 418
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7f03f41d38ee458f92086034386c0
+      internalID: 924057079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_125
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 419
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550b8201b6a21614e9945b529458b395
+      internalID: 1794993333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_126
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 422
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681725c74d3990448ffddc85c36f560
+      internalID: 549396668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 418
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015bf2fc8c727874eba489656fc33b27
+      internalID: 2057449528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_128
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 418
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44223097ae2b4f548b91be8352ec6198
+      internalID: -1757201533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a49637132d694ba4ef91b5a6bc02b
+      internalID: 1756942079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_130
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 417
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c931c69c30863046ad9aa1ef17e61c3
+      internalID: 939733033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_131
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 402
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158c3199c5844f243a4887f114e88434
+      internalID: 1279029079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_132
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 370
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7734963ee34c943438a11b6ed25edac7
+      internalID: -1392446553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_133
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 384
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f7d9e22d8372f4da3c261189ecc382
+      internalID: -1269284896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 364
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17729e19fe9f0f4bbf9fbe8bbd1b7a5
+      internalID: -864693314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3575e4f75b0eea242ba714c0a3422191
+      internalID: -50730830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_136
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 305
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6f798d13afc542a7425cd89443184
+      internalID: 777644772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 337
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703ebe2d769bd74ca13120713eba5b2
+      internalID: -1355737431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_138
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 305
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad6015c721ca045a9ff28befd46d22
+      internalID: -947759222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_139
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 322
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf690aa4b13bacd4d8b7ba1017d6d9b6
+      internalID: 2124113631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_140
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 304
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bc995590519774d9a36fcd2ca352c4
+      internalID: 1651878911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12a1862321b01447896eb9b94b53f5f
+      internalID: 856400962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_142
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 300
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43abdc045f291c8469b2ac7c07ea3bb9
+      internalID: -1574645377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_143
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 321
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51036f5184faf549bd41922bcfb3c2f
+      internalID: -568709444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_144
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 320
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527e1a61b0967b142adbc3575ce83407
+      internalID: -1140308219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d944d28088a552641833312e1c61552d
+      internalID: -1020075827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_146
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 305
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2259b139cf05dcb46b24178f350434ba
+      internalID: -1968322165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 290
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79caa585f40aedc47afde445c56eb6a6
+      internalID: 798045643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_148
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 304
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec12a20401fa1824cb5eafcff6b027b0
+      internalID: -1068611323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_149
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25ec7e4c4476c24fa2ce115df5e0332
+      internalID: 536632437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_150
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346f4698c80a4f4e82ef851173e6f52
+      internalID: 1457332919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_151
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b7dd9c1e8ff434998124b0d03df57d
+      internalID: 82277507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72eb606a0c4144b8e2e11d64f108ec
+      internalID: -1146589108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_153
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240edf2a74e9b994fa4d164ac4e33139
+      internalID: 539167506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_154
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 262
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6aa4bc96a6b0429648dc4d8949008
+      internalID: 1846892905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_155
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6420f1f6595a2f24ea62774f8386c068
+      internalID: 1637049605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91783b8e3abbfca4eb456f54264038ce
+      internalID: 997513010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98abd74f86e6ec41bab713b603b5ada
+      internalID: -875347272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_158
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 273
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a6888ed0120f4fb00527ce37b562a
+      internalID: -1485705182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_159
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfee05339646bc4c9a035360431647f
+      internalID: 280107726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 258
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d23bb1339a43547b481d003e59ebd0
+      internalID: 828914787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_161
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85b7ac506930d439c302c538844926
+      internalID: -1646358032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 257
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccac9b039f1bd7459d3a5da1ac76139
+      internalID: 2073872703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_163
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0772e54e08edf1a4f908076cdc5f0d57
+      internalID: -161026194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 195
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cee9c8a6e1bd064dadd8cf0ca9806f1
+      internalID: -213793023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_165
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 147
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8a4034cac9e97428f70ebe595ada66
+      internalID: -1399723220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 195
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50858255046834ebc69e05df52d139
+      internalID: -226337944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 147
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a0091448c98e64f98312b94e3ce366
+      internalID: -851182352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_168
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 208
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12980ff4aee7e4bb38db61d17fbac9
+      internalID: -819627334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_169
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 243
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ab6c7edcd9f846bbfe6531fe43ca3
+      internalID: -490992999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_170
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 243
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e484c80c24a4e54086ac6732990b1a4
+      internalID: 980258547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_171
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172bcd3d6c8fd84fa40a3d7dd4e3f10
+      internalID: -1992992144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_172
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 243
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8552f7b830211b4d8aeab1d7836c272
+      internalID: 59941506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_173
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 226
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f9598be744004093b5e44c5dda912
+      internalID: -184617793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_174
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 83
+        width: 32
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0beb552784bb13468862a1121ee48b7
+      internalID: 1945764354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_175
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 192
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e52c2565e0d94d9aa75cb8871726e
+      internalID: 1643611325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_176
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 192
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e665c63e44d7a7498d750a44047c0ad
+      internalID: -892195041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4750acc7c7341340b588a0c13357cc8
+      internalID: -22874100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_178
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828d7c513fb5c948969158c1d1d8512
+      internalID: -1053168595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d580374b12f4240bac3a902c4e2b74
+      internalID: -1854918936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_180
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 146
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47645302b570834fa8734e55e7f927b
+      internalID: -1837467520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_181
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 160
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed24dff296e60be4488c25d8f7cac964
+      internalID: 1200850884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_182
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 160
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e89105c23e39e40b356e1b3f8e6cd7
+      internalID: -1083362224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_183
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 161
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635fa8c2f26c6c4da64f020f9f3332c
+      internalID: -1749914246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_184
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 161
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68465ce7549e51745b8ab07bc50f2488
+      internalID: -43063634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_185
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 160
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129c80aabe747041b3861b1c40de3c3
+      internalID: -1607873559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_186
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 160
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e153c78a7a23f8a488317c5aaf221679
+      internalID: -319307749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_187
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 49
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d21016a6abc544a8c0df6619da349f
+      internalID: 680589667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_188
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 49
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7023fdf8d1db740a119938bd2ba0e1
+      internalID: 870843172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_189
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3628067a8317d843a2f059fd87767a0
+      internalID: 1110676809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_190
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 129
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dbf7916b2c5b84187df3f43f6b9796
+      internalID: -214095592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_191
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 133
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748935797265dd74f837181b0c5c2cae
+      internalID: 1796732135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_192
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d41947400fe845a6eac4c83a833ea
+      internalID: 2079754468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_193
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 96
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c14427d2c058941a6e721caca4399d
+      internalID: 1878832203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_194
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 96
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0b9fb12979844d8c1b61ef3435039
+      internalID: 1659184249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_195
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d741dba181b3f4882de2a61df776c8
+      internalID: 1114287747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_196
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 96
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc83214311239b43968b34ee1a0006f
+      internalID: 2127459290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_197
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e08b88aa8852c848addfe5cfa4fad70
+      internalID: 1861433616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_198
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 95
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4835456c2e9393429353788c4618c80
+      internalID: -369322821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb874c8833d4cd4fae16bdfceb1cd19
+      internalID: 245595073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_200
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69912d8214b2480418eca12dd9d18547
+      internalID: 1704577463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_201
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 65
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26696b98b377971419297c823e78a35c
+      internalID: 54364111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_202
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a48dc009c4a94e9cbe5ad03c881c5
+      internalID: -272306481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_203
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 66
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cfdaf96fb15f747b673813bd918027
+      internalID: 395565723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_204
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843207d5a636cf4cb6c82c1d5f6f0d0
+      internalID: 1749925906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_205
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574548377e1c9d4f8d4991e24a1c755
+      internalID: 1889400157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_206
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee919f0cc5ab3347ba8a254a73d6c87
+      internalID: -609840109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_207
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e23d78d5e20dc4f972ae8ed0ae8fe7
+      internalID: 18951286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_208
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9aaaed4f474ac468f7c02798abea9b
+      internalID: -1729943423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_209
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2dd435e619b6a48bde77be02357724
+      internalID: 419948634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_210
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 144
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b17efbac6770a4b8603f7378f4d260
+      internalID: 1073092617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FDR_Grasslands 1_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 144
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde77b61a4d4494b99a279f243877ee
+      internalID: 1305758760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FDR_Grasslands 1_0: -1308401648
+      FDR_Grasslands 1_1: 115666825
+      FDR_Grasslands 1_10: 7402962
+      FDR_Grasslands 1_100: 1320542302
+      FDR_Grasslands 1_101: -1888385807
+      FDR_Grasslands 1_102: -530205320
+      FDR_Grasslands 1_103: 915340544
+      FDR_Grasslands 1_104: -696950215
+      FDR_Grasslands 1_105: 1326454830
+      FDR_Grasslands 1_106: -1237238152
+      FDR_Grasslands 1_107: 1924619667
+      FDR_Grasslands 1_108: 102919549
+      FDR_Grasslands 1_109: 1487053429
+      FDR_Grasslands 1_11: -1347562167
+      FDR_Grasslands 1_110: 1007040387
+      FDR_Grasslands 1_111: -1955093922
+      FDR_Grasslands 1_112: 581793194
+      FDR_Grasslands 1_113: 788876581
+      FDR_Grasslands 1_114: 2027877265
+      FDR_Grasslands 1_115: -169518408
+      FDR_Grasslands 1_116: -447639883
+      FDR_Grasslands 1_117: -636398359
+      FDR_Grasslands 1_118: 765663487
+      FDR_Grasslands 1_119: 903462285
+      FDR_Grasslands 1_12: 239823916
+      FDR_Grasslands 1_120: 628469596
+      FDR_Grasslands 1_121: -60966666
+      FDR_Grasslands 1_122: -1650377419
+      FDR_Grasslands 1_123: 553057207
+      FDR_Grasslands 1_124: 924057079
+      FDR_Grasslands 1_125: 1794993333
+      FDR_Grasslands 1_126: 549396668
+      FDR_Grasslands 1_127: 2057449528
+      FDR_Grasslands 1_128: -1757201533
+      FDR_Grasslands 1_129: 1756942079
+      FDR_Grasslands 1_13: 1691444890
+      FDR_Grasslands 1_130: 939733033
+      FDR_Grasslands 1_131: 1279029079
+      FDR_Grasslands 1_132: -1392446553
+      FDR_Grasslands 1_133: -1269284896
+      FDR_Grasslands 1_134: -864693314
+      FDR_Grasslands 1_135: -50730830
+      FDR_Grasslands 1_136: 777644772
+      FDR_Grasslands 1_137: -1355737431
+      FDR_Grasslands 1_138: -947759222
+      FDR_Grasslands 1_139: 2124113631
+      FDR_Grasslands 1_14: 98405179
+      FDR_Grasslands 1_140: 1651878911
+      FDR_Grasslands 1_141: 856400962
+      FDR_Grasslands 1_142: -1574645377
+      FDR_Grasslands 1_143: -568709444
+      FDR_Grasslands 1_144: -1140308219
+      FDR_Grasslands 1_145: -1020075827
+      FDR_Grasslands 1_146: -1968322165
+      FDR_Grasslands 1_147: 798045643
+      FDR_Grasslands 1_148: -1068611323
+      FDR_Grasslands 1_149: 536632437
+      FDR_Grasslands 1_15: 2102153992
+      FDR_Grasslands 1_150: 1457332919
+      FDR_Grasslands 1_151: 82277507
+      FDR_Grasslands 1_152: -1146589108
+      FDR_Grasslands 1_153: 539167506
+      FDR_Grasslands 1_154: 1846892905
+      FDR_Grasslands 1_155: 1637049605
+      FDR_Grasslands 1_156: 997513010
+      FDR_Grasslands 1_157: -875347272
+      FDR_Grasslands 1_158: -1485705182
+      FDR_Grasslands 1_159: 280107726
+      FDR_Grasslands 1_16: -1910790194
+      FDR_Grasslands 1_160: 828914787
+      FDR_Grasslands 1_161: -1646358032
+      FDR_Grasslands 1_162: 2073872703
+      FDR_Grasslands 1_163: -161026194
+      FDR_Grasslands 1_164: -213793023
+      FDR_Grasslands 1_165: -1399723220
+      FDR_Grasslands 1_166: -226337944
+      FDR_Grasslands 1_167: -851182352
+      FDR_Grasslands 1_168: -819627334
+      FDR_Grasslands 1_169: -490992999
+      FDR_Grasslands 1_17: 980079528
+      FDR_Grasslands 1_170: 980258547
+      FDR_Grasslands 1_171: -1992992144
+      FDR_Grasslands 1_172: 59941506
+      FDR_Grasslands 1_173: -184617793
+      FDR_Grasslands 1_174: 1945764354
+      FDR_Grasslands 1_175: 1643611325
+      FDR_Grasslands 1_176: -892195041
+      FDR_Grasslands 1_177: -22874100
+      FDR_Grasslands 1_178: -1053168595
+      FDR_Grasslands 1_179: -1854918936
+      FDR_Grasslands 1_18: -1894313868
+      FDR_Grasslands 1_180: -1837467520
+      FDR_Grasslands 1_181: 1200850884
+      FDR_Grasslands 1_182: -1083362224
+      FDR_Grasslands 1_183: -1749914246
+      FDR_Grasslands 1_184: -43063634
+      FDR_Grasslands 1_185: -1607873559
+      FDR_Grasslands 1_186: -319307749
+      FDR_Grasslands 1_187: 680589667
+      FDR_Grasslands 1_188: 870843172
+      FDR_Grasslands 1_189: 1110676809
+      FDR_Grasslands 1_19: -1622238275
+      FDR_Grasslands 1_190: -214095592
+      FDR_Grasslands 1_191: 1796732135
+      FDR_Grasslands 1_192: 2079754468
+      FDR_Grasslands 1_193: 1878832203
+      FDR_Grasslands 1_194: 1659184249
+      FDR_Grasslands 1_195: 1114287747
+      FDR_Grasslands 1_196: 2127459290
+      FDR_Grasslands 1_197: 1861433616
+      FDR_Grasslands 1_198: -369322821
+      FDR_Grasslands 1_199: 245595073
+      FDR_Grasslands 1_2: -1931675917
+      FDR_Grasslands 1_20: -1146128277
+      FDR_Grasslands 1_200: 1704577463
+      FDR_Grasslands 1_201: 54364111
+      FDR_Grasslands 1_202: -272306481
+      FDR_Grasslands 1_203: 395565723
+      FDR_Grasslands 1_204: 1749925906
+      FDR_Grasslands 1_205: 1889400157
+      FDR_Grasslands 1_206: -609840109
+      FDR_Grasslands 1_207: 18951286
+      FDR_Grasslands 1_208: -1729943423
+      FDR_Grasslands 1_209: 419948634
+      FDR_Grasslands 1_21: 128056237
+      FDR_Grasslands 1_210: 1073092617
+      FDR_Grasslands 1_211: 1305758760
+      FDR_Grasslands 1_22: 398194907
+      FDR_Grasslands 1_23: -1670579429
+      FDR_Grasslands 1_24: 1417437481
+      FDR_Grasslands 1_25: 336775384
+      FDR_Grasslands 1_26: -496343441
+      FDR_Grasslands 1_27: -1528576258
+      FDR_Grasslands 1_28: -522971729
+      FDR_Grasslands 1_29: -1817272007
+      FDR_Grasslands 1_3: -567851197
+      FDR_Grasslands 1_30: 1566081442
+      FDR_Grasslands 1_31: 855298938
+      FDR_Grasslands 1_32: 2012567909
+      FDR_Grasslands 1_33: -1716105684
+      FDR_Grasslands 1_34: -587313937
+      FDR_Grasslands 1_35: -2094814433
+      FDR_Grasslands 1_36: 334560015
+      FDR_Grasslands 1_37: -1221042800
+      FDR_Grasslands 1_38: 1204176244
+      FDR_Grasslands 1_39: -15308041
+      FDR_Grasslands 1_4: -1915881565
+      FDR_Grasslands 1_40: 1098498615
+      FDR_Grasslands 1_41: 1401883967
+      FDR_Grasslands 1_42: -399673380
+      FDR_Grasslands 1_43: 1212491989
+      FDR_Grasslands 1_44: 430579386
+      FDR_Grasslands 1_45: -1970275090
+      FDR_Grasslands 1_46: -1276113299
+      FDR_Grasslands 1_47: -207998287
+      FDR_Grasslands 1_48: -668730195
+      FDR_Grasslands 1_49: -1793141209
+      FDR_Grasslands 1_5: 2074096483
+      FDR_Grasslands 1_50: -702355561
+      FDR_Grasslands 1_51: -659132779
+      FDR_Grasslands 1_52: -2053153067
+      FDR_Grasslands 1_53: 891505516
+      FDR_Grasslands 1_54: 471673226
+      FDR_Grasslands 1_55: -981937074
+      FDR_Grasslands 1_56: 2132610786
+      FDR_Grasslands 1_57: -304441142
+      FDR_Grasslands 1_58: 1418906715
+      FDR_Grasslands 1_59: -148306732
+      FDR_Grasslands 1_6: 270638586
+      FDR_Grasslands 1_60: 1756018945
+      FDR_Grasslands 1_61: 862360830
+      FDR_Grasslands 1_62: -1893457217
+      FDR_Grasslands 1_63: 1692561612
+      FDR_Grasslands 1_64: 950959559
+      FDR_Grasslands 1_65: 1628334366
+      FDR_Grasslands 1_66: -1285508660
+      FDR_Grasslands 1_67: 338354491
+      FDR_Grasslands 1_68: -965153979
+      FDR_Grasslands 1_69: -1208737420
+      FDR_Grasslands 1_7: -984169869
+      FDR_Grasslands 1_70: 1053500466
+      FDR_Grasslands 1_71: 1735130295
+      FDR_Grasslands 1_72: -1883249890
+      FDR_Grasslands 1_73: 1684732884
+      FDR_Grasslands 1_74: -2009866999
+      FDR_Grasslands 1_75: -299788779
+      FDR_Grasslands 1_76: 1396290723
+      FDR_Grasslands 1_77: 487408483
+      FDR_Grasslands 1_78: -1787613730
+      FDR_Grasslands 1_79: 66549595
+      FDR_Grasslands 1_8: 1581374443
+      FDR_Grasslands 1_80: 1714527396
+      FDR_Grasslands 1_81: -1071566123
+      FDR_Grasslands 1_82: 1052399541
+      FDR_Grasslands 1_83: 2092860915
+      FDR_Grasslands 1_84: -480609168
+      FDR_Grasslands 1_85: -606350890
+      FDR_Grasslands 1_86: -2120413556
+      FDR_Grasslands 1_87: -840127259
+      FDR_Grasslands 1_88: 465770392
+      FDR_Grasslands 1_89: -1434461727
+      FDR_Grasslands 1_9: 1956458553
+      FDR_Grasslands 1_90: 1842802616
+      FDR_Grasslands 1_91: -1329248265
+      FDR_Grasslands 1_92: 84354119
+      FDR_Grasslands 1_93: -323394223
+      FDR_Grasslands 1_94: -381930845
+      FDR_Grasslands 1_95: 1089893478
+      FDR_Grasslands 1_96: -1779988375
+      FDR_Grasslands 1_97: -2083196770
+      FDR_Grasslands 1_98: -1455658499
+      FDR_Grasslands 1_99: 190460947
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: res/foldermode/sprite/ground.bundle
+  assetBundleVariant: 
