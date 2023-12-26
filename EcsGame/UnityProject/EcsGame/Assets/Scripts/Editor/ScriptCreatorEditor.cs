@@ -10,6 +10,7 @@ public class ScriptCreatorEditor  : UnityEditor.AssetModificationProcessor
         /// </summary>
         static void OnWillCreateAsset(string path)
         {
+        return;
             //导入资源的路径，不知道具体是什么的时候建议输出查看
             Debug.Log(path);
             string str = path.Replace(".meta","");

@@ -80,7 +80,7 @@ namespace Game.Logic
             //Log.i("Start game play");
 
             //AdsMgr.S.PreloadAllAd();
-            //GameplayMgr.S.InitGameplay();
+            GameplayMgr.S.Init();
         }
 
         public void StartGuide()
