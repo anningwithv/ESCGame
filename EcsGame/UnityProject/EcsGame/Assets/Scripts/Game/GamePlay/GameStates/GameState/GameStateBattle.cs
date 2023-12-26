@@ -24,6 +24,7 @@ namespace Game.Logic
             //UIMgr.S.OpenPanel(UIID.SceneTransitionPanel);
 
             BattleMgr.S.Init();
+
         }
 
         public override void Exit(GameplayMgr handler)
