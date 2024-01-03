@@ -15,7 +15,7 @@ public readonly partial struct GameControllerAspect : IAspect
     {
         return new LocalTransform
         {
-            Position = float3.zero,
+            Position = new float3(0, 0f, 0),
             Rotation = Quaternion.identity,
             Scale = 1
         };

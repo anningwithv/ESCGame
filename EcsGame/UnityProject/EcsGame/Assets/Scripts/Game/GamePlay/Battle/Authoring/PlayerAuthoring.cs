@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.Entities;
 using UnityEngine;
-using static PlayerComponents;
 
 public class PlayerAuthoring : MonoBehaviour
 {
     public float MoveSpeed;
+    //public GameObject PlayerGameObjectPrefab;
 
     public float GetMoveSpeed()
     {
@@ -24,5 +24,6 @@ public class PlayerBaker : Baker<PlayerAuthoring>
         {
             MoveSpeed = authoring.GetMoveSpeed()
         });
+        //AddComponentObject(entity, new PlayerGameObjectPrefab { Value = authoring.PlayerGameObjectPrefab });
     }
 }

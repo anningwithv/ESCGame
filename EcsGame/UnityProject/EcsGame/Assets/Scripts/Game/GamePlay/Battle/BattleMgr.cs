@@ -6,6 +6,8 @@ using Unity.Entities;
 
 public class BattleMgr : TSingleton<BattleMgr>
 {
+    public bool BattleInited { get; private set; }
+
     private EntityManager m_EntityManager;
     private World m_DefaultWorld;
 
@@ -16,6 +18,8 @@ public class BattleMgr : TSingleton<BattleMgr>
 
         var gameCtrlEntity = GetGameCtrlEntity();
         m_EntityManager.AddComponent<GameStartTag>(gameCtrlEntity);
+
+        BattleInited = true;
     }
 
     public void OnUpdate(float dt)
